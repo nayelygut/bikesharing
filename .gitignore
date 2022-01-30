@@ -1,3 +1,6 @@
+.DS_Store
+201908-citibike-tripdata.csv
+updated_biketrip.csv
 # Compiled class file
 *.class
 
