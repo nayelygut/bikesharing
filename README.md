@@ -36,4 +36,4 @@ The last graph show the customer versus subscriber trips by gender. There are mo
 
 Based on the data analysis, the bike rental program is very popular. It is mostly used by subscribers, and the typical subscriber is male. The most popular bike rental hours are 8-9 am and 5-7pm, which suggests that it is used as tranportation to get to work or school. It would be interesting to see how the trips look different when the temperatures are lower. 
 
-[link to dashboard](https://public.tableau.com/views/BikeCitiProject/NumberofRides?:language=en-US&:display_count=n&:origin=viz_share_link)
+[link to dashboard](https://public.tableau.com/views/BikeCitiProject/BikeProjectStory?:language=en-US&:display_count=n&:origin=viz_share_link)
