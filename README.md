@@ -1,6 +1,6 @@
 # bikesharing
 ## Overview of the analysis
-On this analysis we are looking at bike rental data for New York City, to show potential investors in Des Moines the feasability of this business model, answer any questions they have, and help convince them to fund the bike rental project. 
+This analysis looks at bike rental data for New York City to show potential investors in Des Moines the feasability of this business model, answer any questions they have, and help convince them to fund the bike rental project. 
 
 ## Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
